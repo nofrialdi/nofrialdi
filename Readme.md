@@ -29,3 +29,24 @@ I'm Nofrialdi, and I love coding! I am a graduate of Informatics Systems with an
 | ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) | Intermediate |
 | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)                 | Intermediate |
 | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)                         | Intermediate |
+
+## 🌱 What I'm Learning
+
+I'm currently enhancing my skills in:
+
+-   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+-   ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+-   🧹 Clean architecture
+
+## 📫 How to Reach Me
+
+You can connect with me on:
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nofrialdii/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nofrialdi/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldi.fasive@gmail.com)
+
+## 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=nofrialdi&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nofrialdi&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+🤝 Let's Connect!
+Feel free to connect with me and explore my work. Let's learn and grow together in the world of technology! 🌐
